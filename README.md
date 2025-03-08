@@ -1,63 +1,93 @@
-# Hello, I'm Tirupathi Reddy! 👋  
+<h1 align="center">  
+  🚀 Tirupathi Reddy Pucha  
+</h1>  
 
-**`Computer Science Student | Aspiring Software Developer`**  
+<p align="center">  
+  <strong>Code. Innovate. Transform.</strong>  
+</p>  
 
-I am currently pursuing my **Bachelor of Technology in Computer Science and Engineering** at [Amrita Vishwa Vidyapeetham, Coimbatore](https://www.amrita.edu/), expected to graduate in **2027**. Passionate about solving real-world problems through technology, I have a keen interest in **Data Structures, Algorithms, Web Development, and Machine Learning**.  
-
-- 🌱 **Currently Learning:** Deepening my knowledge in **Artificial Intelligence and Machine Learning**.  
-- 🚀 **Tech Enthusiast:** Exploring **Full Stack Development** and **Competitive Programming**.  
-- 💡 **Interests:** Software Development, Problem-Solving, and Open-Source Contributions.  
-- 🏆 **Achievements:** Solved numerous coding problems on competitive platforms.  
-- ⚡ **Fun Fact:** I love solving **puzzles and strategic games like chess**.  
-
----
-
-## 🛠️ Skills & Technologies  
-
-### **Programming Languages:**  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-
-### **Web Development:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
-
-### **Databases & Backend:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-
-### **Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+<p align="center">  
+  🎓 <b>B.Tech Computer Science & Engineering | Amrita Vishwa Vidyapeetham (2023 - 2027)</b>  
+  <br> 💡 Passionate about <b>Data Structures, Algorithms, Web Development & System Optimization</b>  
+  <br> 🛠 Exploring <b>AI, Embedded Systems & Cloud Technologies</b>  
+</p>  
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Activity  
+🔥 *"Consistent progress leads to mastery."*  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tirupathi-Reddy-Pucha&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirupathi-Reddy-Pucha&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirupathi-reddy-pucha-134279355/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tirupathi-Reddy-Pucha)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tirupathireddyp1)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tirupathireddypucha@gmail.com)  
+<p align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirupathi-Reddy-Pucha&theme=radical" alt="GitHub Streak"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Tirupathi-Reddy-Pucha&show_icons=true&theme=radical" alt="GitHub Stats"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirupathi-Reddy-Pucha&layout=compact&theme=radical" alt="Top Languages"/>  
+</p>  
 
 ---
 
-## 💬 Quote  
+## 🛠 Technical Skills  
+🚀 *"Translating ideas into efficient solutions."*  
 
-*"Code is like humor. When you have to explain it, it’s bad."* – *Cory House*  
+### ⚡ Programming Languages & Tools  
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,html,css,javascript,react,nodejs,mysql,git,github,linux,vscode,bash" />  
+</p>  
+
+---
+
+## 🏆 Achievements & Contributions  
+🚀 *"Building a better future, one project at a time."*  
+
+
+---
+
+## 🚀 Noteworthy Projects  
+🔗 *Applying technology to real-world problems.*  
+
+### 🌱 *Smart Farming Assistant*  
+🔹 *Tech Stack*: C, Embedded Systems, Automation  
+📌 Developed **an automated irrigation system with real-time analytics**  
+
+### 👻 *Paranormal Activity Detector*  
+🔹 *Tech Stack*: IoT, Sensor Fusion, Python  
+📌 Integrated **EMF, temperature, and lunar phase sensors for anomaly detection**  
+
+### 🌍 *Interactive Portfolio Website*  
+🔹 *Tech Stack*: React.js, CSS, Node.js  
+📌 Created **a responsive personal website showcasing projects & achievements**  
+
+---
+
+## 📜 Certifications & Learning  
+✅ *Advanced Data Structures & Algorithms*  
+
+---
+
+## 🌍 Connect with Me  
+🚀 *"Let’s collaborate and build something incredible!"*  
+
+<p align="center">  
+  <a href="mailto:tirupathireddypucha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+  </a>  
+  <a href="https://www.linkedin.com/in/tirupathi-reddy-pucha-134279355/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>  
+  <a href="https://leetcode.com/profile/points/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode">
+  </a>  
+  <a href="https://www.hackerrank.com/profile/tirupathireddyp1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank">
+  </a>  
+  <a href="https://github.com/Tirupathi-Reddy-Pucha">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+  </a>  
+</p>  
+
+---
+
+## 🚀 Open for Collaboration  
+✅ *Looking for exciting projects & networking opportunities!*  
+✅ *Let's innovate together!*  
 
 ---
