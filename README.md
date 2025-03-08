@@ -61,5 +61,3 @@ I am currently pursuing my **Bachelor of Technology in Computer Science and Engi
 *"Code is like humor. When you have to explain it, it’s bad."* – *Cory House*  
 
 ---
-
-This updated version enhances your profile with a more professional touch while keeping it visually engaging. Let me know if you'd like to tweak anything! 🚀🔥
